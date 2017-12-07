@@ -166,14 +166,8 @@ img.article-image {
 	align-items: center;
 	margin-top: 2%;
 }
-.presentation {
+.blocs {
 	font-size: 18px;
-}
-.projects{
-  font-size: 18px;
-}
-.contact{
-  font-size: 18px;
 }
 .skillsContainer {
 	display: flex;
